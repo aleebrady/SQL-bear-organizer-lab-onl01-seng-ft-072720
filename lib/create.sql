@@ -5,5 +5,5 @@ gender Text,
 color Text,
 temperament Text,
 alive Boolean,
-id Integer PRIMARY KEY,
+id Integer PRIMARY KEY
 );

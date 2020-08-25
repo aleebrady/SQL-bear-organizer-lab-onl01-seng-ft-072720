@@ -1,1 +1,1 @@
-Insert Into bears (name, age, gender, color, temperament, alive) Values ("name");
+Insert Into bears (name, age, gender, color, temperament, alive) Values ("Mr. Chocolate");
